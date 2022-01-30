@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:none; stroke:#000000; stroke-opacity:0.2235; stroke-width:8; stroke-linecap:round; stroke-linejoin:round"
+        d="M8 4H24V24H32C50 24 56 32 56 42C56 53 42 56 32 56L8 55V4z
+           M24 32V48H28C32 48 40 46 40 40C40 34 32 32 28 32H24z"
+        transform="matrix(1,0,0,1,4,4)"
+  />
+  <path style="fill:none; stroke:#545454; stroke-width:8; stroke-linecap:round; stroke-linejoin:round"
+        d="M8 4H24V24H32C50 24 56 32 56 42C56 53 42 56 32 56L8 55V4z
+           M24 32V48H28C32 48 40 46 40 40C40 34 32 32 28 32H24z"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="128" y1="6" x2="128" y2="56">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#e5e5e5"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M8 4H24V24H32C50 24 56 32 56 42C56 53 42 56 32 56L8 55V4z
+           M24 32V48H28C32 48 40 46 40 40C40 34 32 32 28 32H24z"
+  />
+ </g>
+</svg>

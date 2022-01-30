@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:none; stroke:#000000; stroke-opacity:0.2078; stroke-width:12; stroke-linecap:round; stroke-linejoin:round"
+        d="M6 10V42C6 44 16 54 16 54H20C20 54 29.99 44 29.99 42V8L27.99 6H16L14 8V38C14 38 14.91 42 17.99 42C20.91 42 22 38 22 38V14"
+        transform="matrix(1,0,0,1,4,4)"
+  />
+  <path style="fill:none; stroke:#525252; stroke-width:12; stroke-linecap:round; stroke-linejoin:round"
+        d="M6 10V42C6 44 16 54 16 54H20C20 54 29.99 44 29.99 42V8L27.99 6H16L14 8V38C14 38 14.91 42 17.99 42C20.91 42 22 38 22 38V14"
+  />
+  <radialGradient id="gradient0" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.3359,0.0294,-0.0614,0.7008,12.973,18.9924)">
+   <stop offset="0" stop-color="#e5e5e5"/>
+   <stop offset="0.3522" stop-color="#d0d0d0"/>
+   <stop offset="1" stop-color="#f1f1f1"/>
+  </radialGradient>
+  <path style="fill:none; stroke:url(#gradient0); stroke-width:4; stroke-linecap:round"
+        d="M6 10V42C6 44 16 54 16 54H20C20 54 29.99 44 29.99 42V8L27.99 6H16L14 8V38C14 38 14.91 42 17.99 42C20.91 42 22 38 22 38V14"
+  />
+  <path style="fill:none; stroke:#000000; stroke-opacity:0.2078; stroke-width:8; stroke-linejoin:round"
+        d="M40 40H32V48H40V56H48V48H56V40H48V32H40V40z"
+        transform="matrix(1,0,0,1,4,4)"
+  />
+  <path style="fill:none; stroke:#003f80; stroke-width:8; stroke-linejoin:round"
+        d="M40 40H32V48H40V56H48V48H56V40H48V32H40V40z"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="128" y1="32" x2="128" y2="56">
+   <stop offset="0" stop-color="#abd5ff"/>
+   <stop offset="1" stop-color="#3699ff"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M40 40H32V48H40V56H48V48H56V40H48V32H40V40z"
+  />
+ </g>
+</svg>
